@@ -65,8 +65,8 @@ Administrateur ──► [ Bastion ] ──► machines privées (via NAT pour l
 
 ## Prérequis
 
-- [Terraform](https://developer.hashicorp.com/terraform/install) (version à préciser : `>= X.Y`)
-- [Ansible](https://docs.ansible.com/ansible/latest/installation_guide/) (version à préciser)
+- [Terraform](https://developer.hashicorp.com/terraform/install) 
+- [Ansible](https://docs.ansible.com/ansible/latest/installation_guide/) 
 - Un compte cloud (AWS) avec des identifiants ayant les droits nécessaires
 - Une paire de clés SSH pour accéder au bastion
 
